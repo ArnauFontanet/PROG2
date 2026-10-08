@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ProvaExamenChatNausEspacials\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33C9A5AF-0347-44CB-8082-4F3757613A70}|ProvaExamenChatNausEspacials\\ProvaExamenChatNausEspacials.vcxproj|C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ProvaExamenChatNausEspacials\\ProvaExamenChatNausEspacials\\Fighter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33C9A5AF-0347-44CB-8082-4F3757613A70}|ProvaExamenChatNausEspacials\\ProvaExamenChatNausEspacials.vcxproj|solutionrelative:ProvaExamenChatNausEspacials\\Fighter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C9A5AF-0347-44CB-8082-4F3757613A70}|ProvaExamenChatNausEspacials\\ProvaExamenChatNausEspacials.vcxproj|C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ProvaExamenChatNausEspacials\\ProvaExamenChatNausEspacials\\Cargo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33C9A5AF-0347-44CB-8082-4F3757613A70}|ProvaExamenChatNausEspacials\\ProvaExamenChatNausEspacials.vcxproj|solutionrelative:ProvaExamenChatNausEspacials\\Cargo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C9A5AF-0347-44CB-8082-4F3757613A70}|ProvaExamenChatNausEspacials\\ProvaExamenChatNausEspacials.vcxproj|C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ProvaExamenChatNausEspacials\\ProvaExamenChatNausEspacials\\Explorer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33C9A5AF-0347-44CB-8082-4F3757613A70}|ProvaExamenChatNausEspacials\\ProvaExamenChatNausEspacials.vcxproj|solutionrelative:ProvaExamenChatNausEspacials\\Explorer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C9A5AF-0347-44CB-8082-4F3757613A70}|ProvaExamenChatNausEspacials\\ProvaExamenChatNausEspacials.vcxproj|C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ProvaExamenChatNausEspacials\\ProvaExamenChatNausEspacials\\Spacecraft.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33C9A5AF-0347-44CB-8082-4F3757613A70}|ProvaExamenChatNausEspacials\\ProvaExamenChatNausEspacials.vcxproj|solutionrelative:ProvaExamenChatNausEspacials\\Spacecraft.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C9A5AF-0347-44CB-8082-4F3757613A70}|ProvaExamenChatNausEspacials\\ProvaExamenChatNausEspacials.vcxproj|C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ProvaExamenChatNausEspacials\\ProvaExamenChatNausEspacials\\Cargo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33C9A5AF-0347-44CB-8082-4F3757613A70}|ProvaExamenChatNausEspacials\\ProvaExamenChatNausEspacials.vcxproj|solutionrelative:ProvaExamenChatNausEspacials\\Cargo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C9A5AF-0347-44CB-8082-4F3757613A70}|ProvaExamenChatNausEspacials\\ProvaExamenChatNausEspacials.vcxproj|C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ProvaExamenChatNausEspacials\\ProvaExamenChatNausEspacials\\Explorer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33C9A5AF-0347-44CB-8082-4F3757613A70}|ProvaExamenChatNausEspacials\\ProvaExamenChatNausEspacials.vcxproj|solutionrelative:ProvaExamenChatNausEspacials\\Explorer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C9A5AF-0347-44CB-8082-4F3757613A70}|ProvaExamenChatNausEspacials\\ProvaExamenChatNausEspacials.vcxproj|C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ProvaExamenChatNausEspacials\\ProvaExamenChatNausEspacials\\Fighter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33C9A5AF-0347-44CB-8082-4F3757613A70}|ProvaExamenChatNausEspacials\\ProvaExamenChatNausEspacials.vcxproj|solutionrelative:ProvaExamenChatNausEspacials\\Fighter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C9A5AF-0347-44CB-8082-4F3757613A70}|ProvaExamenChatNausEspacials\\ProvaExamenChatNausEspacials.vcxproj|C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ProvaExamenChatNausEspacials\\ProvaExamenChatNausEspacials\\Spacecraft.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33C9A5AF-0347-44CB-8082-4F3757613A70}|ProvaExamenChatNausEspacials\\ProvaExamenChatNausEspacials.vcxproj|solutionrelative:ProvaExamenChatNausEspacials\\Spacecraft.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C9A5AF-0347-44CB-8082-4F3757613A70}|ProvaExamenChatNausEspacials\\ProvaExamenChatNausEspacials.vcxproj|C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ProvaExamenChatNausEspacials\\ProvaExamenChatNausEspacials\\ProvaExamenChatNausEspacials.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33C9A5AF-0347-44CB-8082-4F3757613A70}|ProvaExamenChatNausEspacials\\ProvaExamenChatNausEspacials.vcxproj|solutionrelative:ProvaExamenChatNausEspacials\\ProvaExamenChatNausEspacials.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Explorer.cpp",
+              "DocumentMoniker": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ProvaExamenChatNausEspacials\\ProvaExamenChatNausEspacials\\Explorer.cpp",
+              "RelativeDocumentMoniker": "ProvaExamenChatNausEspacials\\Explorer.cpp",
+              "ToolTip": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ProvaExamenChatNausEspacials\\ProvaExamenChatNausEspacials\\Explorer.cpp",
+              "RelativeToolTip": "ProvaExamenChatNausEspacials\\Explorer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-07T16:46:48.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Explorer.h",
+              "DocumentMoniker": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ProvaExamenChatNausEspacials\\ProvaExamenChatNausEspacials\\Explorer.h",
+              "RelativeDocumentMoniker": "ProvaExamenChatNausEspacials\\Explorer.h",
+              "ToolTip": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ProvaExamenChatNausEspacials\\ProvaExamenChatNausEspacials\\Explorer.h",
+              "RelativeToolTip": "ProvaExamenChatNausEspacials\\Explorer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-07T16:44:30.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cargo.cpp",
+              "DocumentMoniker": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ProvaExamenChatNausEspacials\\ProvaExamenChatNausEspacials\\Cargo.cpp",
+              "RelativeDocumentMoniker": "ProvaExamenChatNausEspacials\\Cargo.cpp",
+              "ToolTip": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ProvaExamenChatNausEspacials\\ProvaExamenChatNausEspacials\\Cargo.cpp",
+              "RelativeToolTip": "ProvaExamenChatNausEspacials\\Cargo.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAASwBcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-07T16:39:35.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cargo.h",
+              "DocumentMoniker": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ProvaExamenChatNausEspacials\\ProvaExamenChatNausEspacials\\Cargo.h",
+              "RelativeDocumentMoniker": "ProvaExamenChatNausEspacials\\Cargo.h",
+              "ToolTip": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ProvaExamenChatNausEspacials\\ProvaExamenChatNausEspacials\\Cargo.h",
+              "RelativeToolTip": "ProvaExamenChatNausEspacials\\Cargo.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-07T16:37:23.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Fighter.cpp",
+              "DocumentMoniker": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ProvaExamenChatNausEspacials\\ProvaExamenChatNausEspacials\\Fighter.cpp",
+              "RelativeDocumentMoniker": "ProvaExamenChatNausEspacials\\Fighter.cpp",
+              "ToolTip": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ProvaExamenChatNausEspacials\\ProvaExamenChatNausEspacials\\Fighter.cpp",
+              "RelativeToolTip": "ProvaExamenChatNausEspacials\\Fighter.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAASwBEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-07T16:33:04.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Fighter.h",
+              "DocumentMoniker": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ProvaExamenChatNausEspacials\\ProvaExamenChatNausEspacials\\Fighter.h",
+              "RelativeDocumentMoniker": "ProvaExamenChatNausEspacials\\Fighter.h",
+              "ToolTip": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ProvaExamenChatNausEspacials\\ProvaExamenChatNausEspacials\\Fighter.h",
+              "RelativeToolTip": "ProvaExamenChatNausEspacials\\Fighter.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-07T16:26:32.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Spacecraft.cpp",
+              "DocumentMoniker": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ProvaExamenChatNausEspacials\\ProvaExamenChatNausEspacials\\Spacecraft.cpp",
+              "RelativeDocumentMoniker": "ProvaExamenChatNausEspacials\\Spacecraft.cpp",
+              "ToolTip": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ProvaExamenChatNausEspacials\\ProvaExamenChatNausEspacials\\Spacecraft.cpp",
+              "RelativeToolTip": "ProvaExamenChatNausEspacials\\Spacecraft.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-07T16:21:49.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Spacecraft.h",
+              "DocumentMoniker": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ProvaExamenChatNausEspacials\\ProvaExamenChatNausEspacials\\Spacecraft.h",
+              "RelativeDocumentMoniker": "ProvaExamenChatNausEspacials\\Spacecraft.h",
+              "ToolTip": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ProvaExamenChatNausEspacials\\ProvaExamenChatNausEspacials\\Spacecraft.h",
+              "RelativeToolTip": "ProvaExamenChatNausEspacials\\Spacecraft.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-07T16:19:57.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProvaExamenChatNausEspacials.cpp",
+              "DocumentMoniker": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ProvaExamenChatNausEspacials\\ProvaExamenChatNausEspacials\\ProvaExamenChatNausEspacials.cpp",
+              "RelativeDocumentMoniker": "ProvaExamenChatNausEspacials\\ProvaExamenChatNausEspacials.cpp",
+              "ToolTip": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ProvaExamenChatNausEspacials\\ProvaExamenChatNausEspacials\\ProvaExamenChatNausEspacials.cpp",
+              "RelativeToolTip": "ProvaExamenChatNausEspacials\\ProvaExamenChatNausEspacials.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-07T16:19:23.22Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
