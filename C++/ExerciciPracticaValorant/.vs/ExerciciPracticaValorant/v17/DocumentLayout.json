@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ExerciciPracticaValorant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4044E615-4332-4DAB-999A-A2DE1B9633B0}|ExerciciPracticaValorant\\ExerciciPracticaValorant.vcxproj|C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ExerciciPracticaValorant\\ExerciciPracticaValorant\\ExerciciPracticaValorant.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4044E615-4332-4DAB-999A-A2DE1B9633B0}|ExerciciPracticaValorant\\ExerciciPracticaValorant.vcxproj|solutionrelative:ExerciciPracticaValorant\\ExerciciPracticaValorant.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4044E615-4332-4DAB-999A-A2DE1B9633B0}|ExerciciPracticaValorant\\ExerciciPracticaValorant.vcxproj|C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ExerciciPracticaValorant\\ExerciciPracticaValorant\\ak.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4044E615-4332-4DAB-999A-A2DE1B9633B0}|ExerciciPracticaValorant\\ExerciciPracticaValorant.vcxproj|solutionrelative:ExerciciPracticaValorant\\ak.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4044E615-4332-4DAB-999A-A2DE1B9633B0}|ExerciciPracticaValorant\\ExerciciPracticaValorant.vcxproj|C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ExerciciPracticaValorant\\ExerciciPracticaValorant\\ak.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4044E615-4332-4DAB-999A-A2DE1B9633B0}|ExerciciPracticaValorant\\ExerciciPracticaValorant.vcxproj|solutionrelative:ExerciciPracticaValorant\\ak.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4044E615-4332-4DAB-999A-A2DE1B9633B0}|ExerciciPracticaValorant\\ExerciciPracticaValorant.vcxproj|C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ExerciciPracticaValorant\\ExerciciPracticaValorant\\arma.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4044E615-4332-4DAB-999A-A2DE1B9633B0}|ExerciciPracticaValorant\\ExerciciPracticaValorant.vcxproj|solutionrelative:ExerciciPracticaValorant\\arma.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4044E615-4332-4DAB-999A-A2DE1B9633B0}|ExerciciPracticaValorant\\ExerciciPracticaValorant.vcxproj|C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ExerciciPracticaValorant\\ExerciciPracticaValorant\\arma.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4044E615-4332-4DAB-999A-A2DE1B9633B0}|ExerciciPracticaValorant\\ExerciciPracticaValorant.vcxproj|solutionrelative:ExerciciPracticaValorant\\arma.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4044E615-4332-4DAB-999A-A2DE1B9633B0}|ExerciciPracticaValorant\\ExerciciPracticaValorant.vcxproj|C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ExerciciPracticaValorant\\ExerciciPracticaValorant\\scar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4044E615-4332-4DAB-999A-A2DE1B9633B0}|ExerciciPracticaValorant\\ExerciciPracticaValorant.vcxproj|solutionrelative:ExerciciPracticaValorant\\scar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4044E615-4332-4DAB-999A-A2DE1B9633B0}|ExerciciPracticaValorant\\ExerciciPracticaValorant.vcxproj|C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ExerciciPracticaValorant\\ExerciciPracticaValorant\\personatge.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4044E615-4332-4DAB-999A-A2DE1B9633B0}|ExerciciPracticaValorant\\ExerciciPracticaValorant.vcxproj|solutionrelative:ExerciciPracticaValorant\\personatge.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4044E615-4332-4DAB-999A-A2DE1B9633B0}|ExerciciPracticaValorant\\ExerciciPracticaValorant.vcxproj|C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ExerciciPracticaValorant\\ExerciciPracticaValorant\\personatge.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4044E615-4332-4DAB-999A-A2DE1B9633B0}|ExerciciPracticaValorant\\ExerciciPracticaValorant.vcxproj|solutionrelative:ExerciciPracticaValorant\\personatge.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4044E615-4332-4DAB-999A-A2DE1B9633B0}|ExerciciPracticaValorant\\ExerciciPracticaValorant.vcxproj|C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ExerciciPracticaValorant\\ExerciciPracticaValorant\\scar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4044E615-4332-4DAB-999A-A2DE1B9633B0}|ExerciciPracticaValorant\\ExerciciPracticaValorant.vcxproj|solutionrelative:ExerciciPracticaValorant\\scar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "personatge.cpp",
+              "DocumentMoniker": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ExerciciPracticaValorant\\ExerciciPracticaValorant\\personatge.cpp",
+              "RelativeDocumentMoniker": "ExerciciPracticaValorant\\personatge.cpp",
+              "ToolTip": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ExerciciPracticaValorant\\ExerciciPracticaValorant\\personatge.cpp",
+              "RelativeToolTip": "ExerciciPracticaValorant\\personatge.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-05T15:25:31.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "scar.cpp",
+              "DocumentMoniker": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ExerciciPracticaValorant\\ExerciciPracticaValorant\\scar.cpp",
+              "RelativeDocumentMoniker": "ExerciciPracticaValorant\\scar.cpp",
+              "ToolTip": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ExerciciPracticaValorant\\ExerciciPracticaValorant\\scar.cpp",
+              "RelativeToolTip": "ExerciciPracticaValorant\\scar.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-05T15:15:22.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ak.cpp",
+              "DocumentMoniker": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ExerciciPracticaValorant\\ExerciciPracticaValorant\\ak.cpp",
+              "RelativeDocumentMoniker": "ExerciciPracticaValorant\\ak.cpp",
+              "ToolTip": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ExerciciPracticaValorant\\ExerciciPracticaValorant\\ak.cpp",
+              "RelativeToolTip": "ExerciciPracticaValorant\\ak.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-05T15:03:46.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "arma.cpp",
+              "DocumentMoniker": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ExerciciPracticaValorant\\ExerciciPracticaValorant\\arma.cpp",
+              "RelativeDocumentMoniker": "ExerciciPracticaValorant\\arma.cpp",
+              "ToolTip": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ExerciciPracticaValorant\\ExerciciPracticaValorant\\arma.cpp",
+              "RelativeToolTip": "ExerciciPracticaValorant\\arma.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-05T14:27:30.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ak.h",
+              "DocumentMoniker": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ExerciciPracticaValorant\\ExerciciPracticaValorant\\ak.h",
+              "RelativeDocumentMoniker": "ExerciciPracticaValorant\\ak.h",
+              "ToolTip": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ExerciciPracticaValorant\\ExerciciPracticaValorant\\ak.h",
+              "RelativeToolTip": "ExerciciPracticaValorant\\ak.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-05T14:28:47.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "scar.h",
+              "DocumentMoniker": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ExerciciPracticaValorant\\ExerciciPracticaValorant\\scar.h",
+              "RelativeDocumentMoniker": "ExerciciPracticaValorant\\scar.h",
+              "ToolTip": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ExerciciPracticaValorant\\ExerciciPracticaValorant\\scar.h",
+              "RelativeToolTip": "ExerciciPracticaValorant\\scar.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-05T14:27:55.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "arma.h",
+              "DocumentMoniker": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ExerciciPracticaValorant\\ExerciciPracticaValorant\\arma.h",
+              "RelativeDocumentMoniker": "ExerciciPracticaValorant\\arma.h",
+              "ToolTip": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ExerciciPracticaValorant\\ExerciciPracticaValorant\\arma.h",
+              "RelativeToolTip": "ExerciciPracticaValorant\\arma.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-05T14:26:35.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "personatge.h",
+              "DocumentMoniker": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ExerciciPracticaValorant\\ExerciciPracticaValorant\\personatge.h",
+              "RelativeDocumentMoniker": "ExerciciPracticaValorant\\personatge.h",
+              "ToolTip": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ExerciciPracticaValorant\\ExerciciPracticaValorant\\personatge.h",
+              "RelativeToolTip": "ExerciciPracticaValorant\\personatge.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-05T14:24:41.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExerciciPracticaValorant.cpp",
+              "DocumentMoniker": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ExerciciPracticaValorant\\ExerciciPracticaValorant\\ExerciciPracticaValorant.cpp",
+              "RelativeDocumentMoniker": "ExerciciPracticaValorant\\ExerciciPracticaValorant.cpp",
+              "ToolTip": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\ExerciciPracticaValorant\\ExerciciPracticaValorant\\ExerciciPracticaValorant.cpp",
+              "RelativeToolTip": "ExerciciPracticaValorant\\ExerciciPracticaValorant.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-05T14:23:56.297Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

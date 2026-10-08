@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\Herencia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8001CC0C-33B5-4284-9A7C-BBD64CB98346}|Herencia\\Herencia.vcxproj|C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\Herencia\\Herencia\\Herencia.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8001CC0C-33B5-4284-9A7C-BBD64CB98346}|Herencia\\Herencia.vcxproj|solutionrelative:Herencia\\Herencia.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8001CC0C-33B5-4284-9A7C-BBD64CB98346}|Herencia\\Herencia.vcxproj|C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\Herencia\\Herencia\\Cuadrado.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8001CC0C-33B5-4284-9A7C-BBD64CB98346}|Herencia\\Herencia.vcxproj|solutionrelative:Herencia\\Cuadrado.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8001CC0C-33B5-4284-9A7C-BBD64CB98346}|Herencia\\Herencia.vcxproj|C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\Herencia\\Herencia\\Circulo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8001CC0C-33B5-4284-9A7C-BBD64CB98346}|Herencia\\Herencia.vcxproj|solutionrelative:Herencia\\Circulo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8001CC0C-33B5-4284-9A7C-BBD64CB98346}|Herencia\\Herencia.vcxproj|C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\Herencia\\Herencia\\Figura.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8001CC0C-33B5-4284-9A7C-BBD64CB98346}|Herencia\\Herencia.vcxproj|solutionrelative:Herencia\\Figura.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8001CC0C-33B5-4284-9A7C-BBD64CB98346}|Herencia\\Herencia.vcxproj|C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\Herencia\\Herencia\\Figura.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8001CC0C-33B5-4284-9A7C-BBD64CB98346}|Herencia\\Herencia.vcxproj|solutionrelative:Herencia\\Figura.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8001CC0C-33B5-4284-9A7C-BBD64CB98346}|Herencia\\Herencia.vcxproj|C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\Herencia\\Herencia\\Circulo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8001CC0C-33B5-4284-9A7C-BBD64CB98346}|Herencia\\Herencia.vcxproj|solutionrelative:Herencia\\Circulo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8001CC0C-33B5-4284-9A7C-BBD64CB98346}|Herencia\\Herencia.vcxproj|C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\Herencia\\Herencia\\Cuadrado.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8001CC0C-33B5-4284-9A7C-BBD64CB98346}|Herencia\\Herencia.vcxproj|solutionrelative:Herencia\\Cuadrado.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Figura.cpp",
+              "DocumentMoniker": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\Herencia\\Herencia\\Figura.cpp",
+              "RelativeDocumentMoniker": "Herencia\\Figura.cpp",
+              "ToolTip": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\Herencia\\Herencia\\Figura.cpp",
+              "RelativeToolTip": "Herencia\\Figura.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-24T14:51:08.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cuadrado.cpp",
+              "DocumentMoniker": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\Herencia\\Herencia\\Cuadrado.cpp",
+              "RelativeDocumentMoniker": "Herencia\\Cuadrado.cpp",
+              "ToolTip": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\Herencia\\Herencia\\Cuadrado.cpp",
+              "RelativeToolTip": "Herencia\\Cuadrado.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-24T14:43:37.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cuadrado.h",
+              "DocumentMoniker": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\Herencia\\Herencia\\Cuadrado.h",
+              "RelativeDocumentMoniker": "Herencia\\Cuadrado.h",
+              "ToolTip": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\Herencia\\Herencia\\Cuadrado.h",
+              "RelativeToolTip": "Herencia\\Cuadrado.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-09-24T14:41:18.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Circulo.cpp",
+              "DocumentMoniker": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\Herencia\\Herencia\\Circulo.cpp",
+              "RelativeDocumentMoniker": "Herencia\\Circulo.cpp",
+              "ToolTip": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\Herencia\\Herencia\\Circulo.cpp",
+              "RelativeToolTip": "Herencia\\Circulo.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-24T14:40:33.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Circulo.h",
+              "DocumentMoniker": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\Herencia\\Herencia\\Circulo.h",
+              "RelativeDocumentMoniker": "Herencia\\Circulo.h",
+              "ToolTip": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\Herencia\\Herencia\\Circulo.h",
+              "RelativeToolTip": "Herencia\\Circulo.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-09-24T14:37:57.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Figura.h",
+              "DocumentMoniker": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\Herencia\\Herencia\\Figura.h",
+              "RelativeDocumentMoniker": "Herencia\\Figura.h",
+              "ToolTip": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\Herencia\\Herencia\\Figura.h",
+              "RelativeToolTip": "Herencia\\Figura.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-09-24T14:16:31.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Herencia.cpp",
+              "DocumentMoniker": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\Herencia\\Herencia\\Herencia.cpp",
+              "RelativeDocumentMoniker": "Herencia\\Herencia.cpp",
+              "ToolTip": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\Herencia\\Herencia\\Herencia.cpp",
+              "RelativeToolTip": "Herencia\\Herencia.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-24T14:16:16.975Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

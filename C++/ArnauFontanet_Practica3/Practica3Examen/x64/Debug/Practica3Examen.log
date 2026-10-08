@@ -1,0 +1,4 @@
+﻿Practica3Examen.obj : error LNK2019: unresolved external symbol "public: void __cdecl Warehouse::printResources(void)" (?printResources@Warehouse@@QEAAXXZ) referenced in function main
+Practica3Examen.obj : error LNK2019: unresolved external symbol "public: void __cdecl House::printHouse(void)" (?printHouse@House@@QEAAXXZ) referenced in function main
+Practica3Examen.obj : error LNK2019: unresolved external symbol "public: void __cdecl Temple::printTemple(void)" (?printTemple@Temple@@QEAAXXZ) referenced in function main
+C:\Users\arnau\Documents\GitHub\PROG2\C++\ArnauFontanet_Practica3\x64\Debug\Practica3Examen.exe : fatal error LNK1120: 3 unresolved externals
