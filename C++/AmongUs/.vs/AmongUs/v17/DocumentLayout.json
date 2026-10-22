@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\AmongUs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DC2CA4-13CD-4A91-A218-48DDA9C5003C}|AmongUs\\AmongUs.vcxproj|C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\AmongUs\\AmongUs\\AmongUs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B2DC2CA4-13CD-4A91-A218-48DDA9C5003C}|AmongUs\\AmongUs.vcxproj|solutionrelative:AmongUs\\AmongUs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DC2CA4-13CD-4A91-A218-48DDA9C5003C}|AmongUs\\AmongUs.vcxproj|C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\AmongUs\\AmongUs\\GESTOR.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B2DC2CA4-13CD-4A91-A218-48DDA9C5003C}|AmongUs\\AmongUs.vcxproj|solutionrelative:AmongUs\\GESTOR.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DC2CA4-13CD-4A91-A218-48DDA9C5003C}|AmongUs\\AmongUs.vcxproj|C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\AmongUs\\AmongUs\\GESTOR.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B2DC2CA4-13CD-4A91-A218-48DDA9C5003C}|AmongUs\\AmongUs.vcxproj|solutionrelative:AmongUs\\GESTOR.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DC2CA4-13CD-4A91-A218-48DDA9C5003C}|AmongUs\\AmongUs.vcxproj|C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\AmongUs\\AmongUs\\Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B2DC2CA4-13CD-4A91-A218-48DDA9C5003C}|AmongUs\\AmongUs.vcxproj|solutionrelative:AmongUs\\Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DC2CA4-13CD-4A91-A218-48DDA9C5003C}|AmongUs\\AmongUs.vcxproj|C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\AmongUs\\AmongUs\\character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B2DC2CA4-13CD-4A91-A218-48DDA9C5003C}|AmongUs\\AmongUs.vcxproj|solutionrelative:AmongUs\\character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DC2CA4-13CD-4A91-A218-48DDA9C5003C}|AmongUs\\AmongUs.vcxproj|C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\AmongUs\\AmongUs\\ObjInteractuable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B2DC2CA4-13CD-4A91-A218-48DDA9C5003C}|AmongUs\\AmongUs.vcxproj|solutionrelative:AmongUs\\ObjInteractuable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DC2CA4-13CD-4A91-A218-48DDA9C5003C}|AmongUs\\AmongUs.vcxproj|C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\AmongUs\\AmongUs\\ObjInteractuable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B2DC2CA4-13CD-4A91-A218-48DDA9C5003C}|AmongUs\\AmongUs.vcxproj|solutionrelative:AmongUs\\ObjInteractuable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DC2CA4-13CD-4A91-A218-48DDA9C5003C}|AmongUs\\AmongUs.vcxproj|C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\AmongUs\\AmongUs\\Impostor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B2DC2CA4-13CD-4A91-A218-48DDA9C5003C}|AmongUs\\AmongUs.vcxproj|solutionrelative:AmongUs\\Impostor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DC2CA4-13CD-4A91-A218-48DDA9C5003C}|AmongUs\\AmongUs.vcxproj|C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\AmongUs\\AmongUs\\Impostor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B2DC2CA4-13CD-4A91-A218-48DDA9C5003C}|AmongUs\\AmongUs.vcxproj|solutionrelative:AmongUs\\Impostor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GESTOR.cpp",
+              "DocumentMoniker": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\AmongUs\\AmongUs\\GESTOR.cpp",
+              "RelativeDocumentMoniker": "AmongUs\\GESTOR.cpp",
+              "ToolTip": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\AmongUs\\AmongUs\\GESTOR.cpp",
+              "RelativeToolTip": "AmongUs\\GESTOR.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-22T14:08:17.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ObjInteractuable.cpp",
+              "DocumentMoniker": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\AmongUs\\AmongUs\\ObjInteractuable.cpp",
+              "RelativeDocumentMoniker": "AmongUs\\ObjInteractuable.cpp",
+              "ToolTip": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\AmongUs\\AmongUs\\ObjInteractuable.cpp",
+              "RelativeToolTip": "AmongUs\\ObjInteractuable.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-22T14:02:27.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ObjInteractuable.h",
+              "DocumentMoniker": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\AmongUs\\AmongUs\\ObjInteractuable.h",
+              "RelativeDocumentMoniker": "AmongUs\\ObjInteractuable.h",
+              "ToolTip": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\AmongUs\\AmongUs\\ObjInteractuable.h",
+              "RelativeToolTip": "AmongUs\\ObjInteractuable.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-22T14:01:25.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gestor.h",
+              "DocumentMoniker": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\AmongUs\\AmongUs\\Gestor.h",
+              "RelativeDocumentMoniker": "AmongUs\\Gestor.h",
+              "ToolTip": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\AmongUs\\AmongUs\\Gestor.h",
+              "RelativeToolTip": "AmongUs\\Gestor.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-22T13:57:08.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Impostor.cpp",
+              "DocumentMoniker": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\AmongUs\\AmongUs\\Impostor.cpp",
+              "RelativeDocumentMoniker": "AmongUs\\Impostor.cpp",
+              "ToolTip": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\AmongUs\\AmongUs\\Impostor.cpp",
+              "RelativeToolTip": "AmongUs\\Impostor.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-22T13:53:59.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Impostor.h",
+              "DocumentMoniker": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\AmongUs\\AmongUs\\Impostor.h",
+              "RelativeDocumentMoniker": "AmongUs\\Impostor.h",
+              "ToolTip": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\AmongUs\\AmongUs\\Impostor.h",
+              "RelativeToolTip": "AmongUs\\Impostor.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-22T13:49:35.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Character.cpp",
+              "DocumentMoniker": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\AmongUs\\AmongUs\\character.cpp",
+              "RelativeDocumentMoniker": "AmongUs\\character.cpp",
+              "ToolTip": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\AmongUs\\AmongUs\\character.cpp",
+              "RelativeToolTip": "AmongUs\\character.cpp",
+              "ViewState": "AgIAACYAAAAAAAAAAAAYwDMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-22T13:39:23.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Character.h",
+              "DocumentMoniker": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\AmongUs\\AmongUs\\Character.h",
+              "RelativeDocumentMoniker": "AmongUs\\Character.h",
+              "ToolTip": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\AmongUs\\AmongUs\\Character.h",
+              "RelativeToolTip": "AmongUs\\Character.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowBUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-22T13:37:56.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AmongUs.cpp",
+              "DocumentMoniker": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\AmongUs\\AmongUs\\AmongUs.cpp",
+              "RelativeDocumentMoniker": "AmongUs\\AmongUs.cpp",
+              "ToolTip": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\AmongUs\\AmongUs\\AmongUs.cpp",
+              "RelativeToolTip": "AmongUs\\AmongUs.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-22T13:27:32.902Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
