@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\Activitat_Cohet\\ExerciciCohet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{468A8BE1-2C5D-4B53-BB10-3AC340F21CDA}|ExerciciCohet\\ExerciciCohet.vcxproj|C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\Activitat_Cohet\\ExerciciCohet\\ExerciciCohet\\Cohete.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{468A8BE1-2C5D-4B53-BB10-3AC340F21CDA}|ExerciciCohet\\ExerciciCohet.vcxproj|solutionrelative:ExerciciCohet\\Cohete.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468A8BE1-2C5D-4B53-BB10-3AC340F21CDA}|ExerciciCohet\\ExerciciCohet.vcxproj|C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\Activitat_Cohet\\ExerciciCohet\\ExerciciCohet\\Cohete.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{468A8BE1-2C5D-4B53-BB10-3AC340F21CDA}|ExerciciCohet\\ExerciciCohet.vcxproj|solutionrelative:ExerciciCohet\\Cohete.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468A8BE1-2C5D-4B53-BB10-3AC340F21CDA}|ExerciciCohet\\ExerciciCohet.vcxproj|C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\Activitat_Cohet\\ExerciciCohet\\ExerciciCohet\\MapController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{468A8BE1-2C5D-4B53-BB10-3AC340F21CDA}|ExerciciCohet\\ExerciciCohet.vcxproj|solutionrelative:ExerciciCohet\\MapController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468A8BE1-2C5D-4B53-BB10-3AC340F21CDA}|ExerciciCohet\\ExerciciCohet.vcxproj|C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\Activitat_Cohet\\ExerciciCohet\\ExerciciCohet\\Capsula.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{468A8BE1-2C5D-4B53-BB10-3AC340F21CDA}|ExerciciCohet\\ExerciciCohet.vcxproj|solutionrelative:ExerciciCohet\\Capsula.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468A8BE1-2C5D-4B53-BB10-3AC340F21CDA}|ExerciciCohet\\ExerciciCohet.vcxproj|C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\Activitat_Cohet\\ExerciciCohet\\ExerciciCohet\\Capsula.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{468A8BE1-2C5D-4B53-BB10-3AC340F21CDA}|ExerciciCohet\\ExerciciCohet.vcxproj|solutionrelative:ExerciciCohet\\Capsula.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468A8BE1-2C5D-4B53-BB10-3AC340F21CDA}|ExerciciCohet\\ExerciciCohet.vcxproj|C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\Activitat_Cohet\\ExerciciCohet\\ExerciciCohet\\ExerciciCohet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{468A8BE1-2C5D-4B53-BB10-3AC340F21CDA}|ExerciciCohet\\ExerciciCohet.vcxproj|solutionrelative:ExerciciCohet\\ExerciciCohet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MapController.h",
+              "DocumentMoniker": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\Activitat_Cohet\\ExerciciCohet\\ExerciciCohet\\MapController.h",
+              "RelativeDocumentMoniker": "ExerciciCohet\\MapController.h",
+              "ToolTip": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\Activitat_Cohet\\ExerciciCohet\\ExerciciCohet\\MapController.h",
+              "RelativeToolTip": "ExerciciCohet\\MapController.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-29T16:45:20.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Capsula.cpp",
+              "DocumentMoniker": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\Activitat_Cohet\\ExerciciCohet\\ExerciciCohet\\Capsula.cpp",
+              "RelativeDocumentMoniker": "ExerciciCohet\\Capsula.cpp",
+              "ToolTip": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\Activitat_Cohet\\ExerciciCohet\\ExerciciCohet\\Capsula.cpp",
+              "RelativeToolTip": "ExerciciCohet\\Capsula.cpp",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-29T14:23:14.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Capsula.h",
+              "DocumentMoniker": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\Activitat_Cohet\\ExerciciCohet\\ExerciciCohet\\Capsula.h",
+              "RelativeDocumentMoniker": "ExerciciCohet\\Capsula.h",
+              "ToolTip": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\Activitat_Cohet\\ExerciciCohet\\ExerciciCohet\\Capsula.h",
+              "RelativeToolTip": "ExerciciCohet\\Capsula.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-29T14:20:26.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cohete.cpp",
+              "DocumentMoniker": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\Activitat_Cohet\\ExerciciCohet\\ExerciciCohet\\Cohete.cpp",
+              "RelativeDocumentMoniker": "ExerciciCohet\\Cohete.cpp",
+              "ToolTip": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\Activitat_Cohet\\ExerciciCohet\\ExerciciCohet\\Cohete.cpp",
+              "RelativeToolTip": "ExerciciCohet\\Cohete.cpp",
+              "ViewState": "AgIAAK4AAAAAAAAAAAASwL0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-29T14:30:37.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cohete.h",
+              "DocumentMoniker": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\Activitat_Cohet\\ExerciciCohet\\ExerciciCohet\\Cohete.h",
+              "RelativeDocumentMoniker": "ExerciciCohet\\Cohete.h",
+              "ToolTip": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\Activitat_Cohet\\ExerciciCohet\\ExerciciCohet\\Cohete.h",
+              "RelativeToolTip": "ExerciciCohet\\Cohete.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-29T14:14:56.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExerciciCohet.cpp",
+              "DocumentMoniker": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\Activitat_Cohet\\ExerciciCohet\\ExerciciCohet\\ExerciciCohet.cpp",
+              "RelativeDocumentMoniker": "ExerciciCohet\\ExerciciCohet.cpp",
+              "ToolTip": "C:\\Users\\arnau\\Documents\\GitHub\\PROG2\\C\u002B\u002B\\Activitat_Cohet\\ExerciciCohet\\ExerciciCohet\\ExerciciCohet.cpp",
+              "RelativeToolTip": "ExerciciCohet\\ExerciciCohet.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-29T14:10:30.557Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
